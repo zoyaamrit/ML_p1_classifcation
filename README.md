@@ -1,2 +1,2 @@
-# ML_p1_classifcation
-ML Project A: Classification 
+# cs135_p1
+CS 135 - Fall 2023 - Project A: Text Sentiment Analysis
